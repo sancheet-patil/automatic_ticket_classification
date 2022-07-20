@@ -9,7 +9,6 @@ The manual assignment of these incidents might have below disadvantages: More re
 # Objective
 Our objective here is to build an AI-based classifier model to assign the tickets to right functional groups by analysing the given description with an accuracy of at least 85%.
 
-Dataset - https://drive.google.com/open?id=143R3O0o3s3YyC2ZAoVDZOWM1APiNtGPA
 # Steps followed
 Text in Description is pre-processed by removing unwanted characters and words. Some descriptions are given in other languages which are translated to english internally. Stop words are removed and all the words are lemmatized.
 
